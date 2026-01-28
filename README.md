@@ -1,3 +1,5 @@
+# Git Practice
+
 ## Interesting Article
 
 [Software Engineering in 2026: Top 5 Trends Shaping the Future](https://www.refontelearning.com/blog/software-engineering-in-2026-top-5-trends-shaping-the-future)
