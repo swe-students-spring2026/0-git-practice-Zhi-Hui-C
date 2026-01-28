@@ -1,6 +1,6 @@
 ## Interesting Article
 
-[Software Engineering in 2026: Top 5 Trends Shaping the Future](https://www.refontelearning.com/blogsoftware-engineering-in-2026-top-5-trends-shaping-the-future)
+[Software Engineering in 2026: Top 5 Trends Shaping the Future](https://www.refontelearning.com/blog/software-engineering-in-2026-top-5-trends-shaping-the-future)
 
 ## Why I Find This Article Interesting
 
