@@ -17,4 +17,4 @@ Overall, it seems that this article is suggesting the responsibilities of a soft
 
 ## Comment by Xiongfeng Li
 
-Personally, I found this article interesting because it highlights how AI is transforming software engineering and what we should think behind this trend. I really like how the article mentions the differenciation between AI and human. We know that AI cannot replace software engineering, so what we need to do is make the best of our human elements. This points out a good aspect that we should pay attention to, and that we should try our best to develop our continuous learning skills.
+Personally, I found this article interesting because it highlights how AI is transforming software engineering and what we should think behind this trend. I really like how the article mentions the differenciation between AI and human. We know that AI cannot replace software engineering, so what we need to do is make the best of our human elements. This points out a good aspect that we should pay attention to, and that we should try our best to develop our continuous learning skills. It is really meaningful to our future plans and studies.
