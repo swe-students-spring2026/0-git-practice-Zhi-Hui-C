@@ -1,3 +1,5 @@
+# Git Practice
+
 ## Interesting Article
 
 [Software Engineering in 2026: Top 5 Trends Shaping the Future](https://www.refontelearning.com/blog/software-engineering-in-2026-top-5-trends-shaping-the-future)
@@ -8,7 +10,11 @@ This article discusses how software engineering is expected to evolve by 2026, f
 
 I found this article especially interesting because it reflects how software development is moving toward an era of rapid prototyping and AI-assisted “vibe coding,” where ideas can be quickly turned into working products. With AI tools deeply integrated into the development process, engineers are able to experiment faster, iterate more efficiently, and focus more on high-level design rather than repetitive implementation. This shift suggests that future software systems will be built more collaboratively between humans and intelligent tools, making development faster, more flexible, and more creative.
 
-#### Comment:
+## Comment:
 
 Overall, it seems that this article is suggesting the responsibilities of a software engineer is slowly pivoting. The rise of low-code/no-code tools, and AI agents, software engineers are increasingly becoming "software orchestrators" who focus more on parts like integration, scalability, and security, rather than spending as much time dealing with boilerplate code.  
  - Luke Sribhud
+
+## Comment by Xiongfeng Li
+
+Personally, I found this article interesting because it highlights how AI is transforming software engineering and what we should think behind this trend. I really like how the article mentions the differenciation between AI and human. We know that AI cannot replace software engineering, so what we need to do is make the best of our human elements. This points out a good aspect that we should pay attention to, and that we should try our best to develop our continuous learning skills.
